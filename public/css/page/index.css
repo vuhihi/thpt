@@ -1,0 +1,28 @@
+#body-item-1{
+	background-color: #eeeedd;
+	padding-bottom: 7px;
+}
+.item{
+	background-color: white;
+	box-shadow: 2px 2px 2px #555;
+	margin-top: 15px !important;
+	-webkit-transition: all 0.4s;
+	transition: all 0.4s;
+}
+.item a{
+	display: block;
+	text-align: center;
+	font-family: 'Lobster', cursive;
+	font-size: 35px;
+	padding:10px;
+	color:#1f1f14;
+	-webkit-transition: all 0.4s;
+	transition: all 0.4s;
+}
+.item a:hover{
+	text-decoration: none;
+	color: white;
+}
+.item:hover{
+	background-color: #10100a;
+}

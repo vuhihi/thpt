@@ -1,0 +1,42 @@
+*{
+	box-sizing: border-box;
+}
+
+.row{
+	margin: 0px !important;
+}
+
+.container-fluid{
+	padding:0px !important;
+}
+
+#body{
+	display: none;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#header-wrapper{
+	padding:5px 5px;
+}
+
+#header-logo{
+	display: inline-block;
+}
+
+#header-logo-img1{
+	width:80px;
+}
+
+#header-logo-img2{
+	width: 250px;
+}
+
+#header-menu{
+	display: flex;
+	align-content: flex-end;
+	height: 100%;
+}
+
+#header-menu li{
+}

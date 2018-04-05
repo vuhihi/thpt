@@ -1,0 +1,21 @@
+.seo{
+	padding-left: 20px;
+	padding-right: 7px;
+	border: solid #008000 2px;
+	margin-bottom: 20px;
+	background-color: #f5f5ef;
+	border-radius: 5px;
+}
+.seo-header{
+	background-color: #00cc00;
+	padding-top: 10px;
+	padding-bottom: 10px; 
+	text-align: center;
+	border-radius: 0 0 5px 5px;
+}
+.seo-header>span{
+	background-color: #008000;
+	color: white;
+	padding: 5px 5px;
+	border-radius: 5px;
+}
